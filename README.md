@@ -1,5 +1,7 @@
 ### Please don't expect much from me lol
 
+This is just a site where I do random stuff. If you're looking for huge projects and the like, be disappointed. RIGHT NOW.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
