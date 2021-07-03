@@ -1,5 +1,8 @@
 ### Please don't expect much from me lol
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobun42)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Kobun42/kobun42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
