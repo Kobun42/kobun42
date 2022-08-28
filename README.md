@@ -1,6 +1,6 @@
-### Please don't expect much from me lol
+### welcome to hell
 
-This is just a site where I do random stuff. If you're looking for huge projects and the like, be disappointed. RIGHT NOW.
+Congratulations! You have found the worst Github account ever and have accidentally and inadvertedly landed yourself in hell! I advise leaving NOW!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
