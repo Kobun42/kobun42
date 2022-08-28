@@ -2,9 +2,6 @@
 
 Congratulations! You have found the worst Github account ever and have accidentally and inadvertedly landed yourself in hell! I advise leaving NOW!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- refreshing now-->
 <!--
