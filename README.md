@@ -5,8 +5,9 @@ Congratulations! You have found the worst Github account ever and have inadverte
 Just some stuff about me because I can't be bothered to talk about it face to face (because I'm a loser, duh.)
 
 - Obsessed with Phantasy Star Online Blue Burst and other games nobody cares about
-- I know a decent amount of Lua, Javascript, PHP, and Python. I also know a fair amount of C++ (though I would like to know more advanced techniques with it.)
+- I know a decent amount of Lua, Javascript, PHP, and Python. I also know a fair amount of C++ (though I would like to know more advanced techniques with it) and a hilariously low amount of C#.
 - I want to learn more C++ alongside C# and potentially Java.
+- Too much interest in 2000s MMO/Live game networking and Game Design.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobun42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
